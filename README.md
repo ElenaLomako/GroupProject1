@@ -6,3 +6,6 @@
 3. The AvgAnnualPrice database was created by manipulating an excel file and extracting the data needed from it gathered from previous data collection.
 Some tips to get started would be to make sure that the data you have can be cleaned and to make sure you know what you want to do with the data.
 When actually using this data we were able to manipulate it so that we could get a multiple line graph to see trends in the annual price for houses in the states and see how that graph matched with the population change in the states we wanted to focus on. When looking at the graphs it would be a good idea to look at both the databases as well as the graphs to see trends in order to properly analyze everything.
+
+
+Some issues to note is that last two pull requests had too many conflics, the profesor and Janki coudn't help with it and they suggested to upload a few files manually. This is what we did as it was minutes before the project is due.
