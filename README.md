@@ -1,4 +1,8 @@
 # GroupProject1
+<<<<<<< HEAD
+
+Cam's Branch
+=======
 Liam was here
 
 # Cameron Cullen
@@ -7,3 +11,4 @@ Liam was here
 
 #Kaelan Was here 
 
+>>>>>>> main
