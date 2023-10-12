@@ -9,3 +9,7 @@ When actually using this data we were able to manipulate it so that we could get
 
 
 Some issues to note is that last two pull requests had too many conflics, the profesor and Janki coudn't help with it and they suggested to upload a few files manually. This is what we did as it was minutes before the project is due.
+
+4. the rentalvanacny databases were created by downloading CSVs files from FRED national data and mergeing them together. I extracted the data that was necessary, and was inline with the timeframe of census data. When using this data, I was able to manipulate the dataframe so that the columns became rows and rows became columns. This allowed me to merge the data later in the population vs rental graphs. The final result is two databases, one showcasing the % of rental vacancies and the other showing the change between years.
+
+5. the population vs rental vacancy database was created to examine the relationshop between the two. A helpful tip for this section is to store the dataframes from other jupyter notebooks, and loading them at the start, so I did not have to repeat code. This database required some manipulation of the data, including rename of columns, creating new dataframes.
